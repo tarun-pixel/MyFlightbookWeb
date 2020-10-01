@@ -1,4 +1,4 @@
-# MyFlightbookWeb
+# MyFlightbookWebApp
 The website and service for MyFlightbook.  This provides the back-end for the mobile apps as well.
 
  ## Getting Started
